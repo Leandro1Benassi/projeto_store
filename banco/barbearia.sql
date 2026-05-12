@@ -587,15 +587,15 @@ CREATE TABLE `produtos` (
 --
 
 INSERT INTO `produtos` (`id`, `nome`, `descricao`, `categoria`, `valor_compra`, `valor_venda`, `estoque`, `foto`, `nivel_estoque`) VALUES
-(1, 'Pomada para Barbas', 'Pomada para barbas...', 1, '24.00', '60.00', 12, '14-06-2022-16-44-05-BARBA-04.png', 5),
-(2, 'Creme Hidratação', 'Creme para hidratar...', 2, '2.00', '35.00', 41, '14-06-2022-16-43-42-creme-hidrataçao.png', 5),
-(4, 'Loção Pós Barba', 'Loção para barba creme X', 5, '10.00', '15.00', 48, '14-06-2022-16-43-17-BARBA-03.png', 5),
-(5, 'Pomada Modeladora', 'Pomada Modeladora para Cabelos', 1, '10.00', '10.00', 8, '14-06-2022-16-42-47-BARBA-06.png', 5),
-(6, 'Creme para Barbas', 'Evita a pele ficar hirritada...', 2, '31.25', '35.00', 8, '14-06-2022-16-44-44-BARBA-05.png', 5),
-(7, 'Pomada Gel Modeladora', 'Pomada que tem uma ação de gel que mantém seu cabelo modelado mais tempo', 1, '10.00', '30.00', 60, '14-06-2022-17-30-52-pomada.png', 5),
-(8, 'Esmalte Risqué', 'Esmalte de alta duração xx', 7, '10.00', '12.00', 19, '14-06-2022-16-47-12-esmalte.png', 0),
-(9, 'Esmalte Longa Duração', 'Esmalte Risque ....', 7, '10.00', '7.00', 16, '14-06-2022-17-32-16-MANICURE-04.png', 10),
-(10, 'Creme Pele', 'Creme ...', 2, '0.00', '35.00', 8, '14-06-2022-16-52-39-p2.png', 10);
+(1, 'Pomada para Barbas', 'Pomada para barbas...', 1, '24.00', '60.00', 12, 'prod-01.jpeg', 5),
+(2, 'Creme Hidratação', 'Creme para hidratar...', 2, '2.00', '35.00', 41, 'prod-02.jpeg', 5),
+(4, 'Loção Pós Barba', 'Loção para barba creme X', 5, '10.00', '15.00', 48, 'prod-04.jpeg', 5),
+(5, 'Pomada Modeladora', 'Pomada Modeladora para Cabelos', 1, '10.00', '10.00', 8, 'prod-05.jpeg', 5),
+(6, 'Creme para Barbas', 'Evita a pele ficar hirritada...', 2, '31.25', '35.00', 8, 'prod-06.jpeg', 5),
+(7, 'Pomada Gel Modeladora', 'Pomada que tem uma ação de gel que mantém seu cabelo modelado mais tempo', 1, '10.00', '30.00', 60, 'prod-07.jpeg', 5),
+(8, 'Esmalte Risqué', 'Esmalte de alta duração xx', 7, '10.00', '12.00', 19, 'prod-08.jpeg', 0),
+(9, 'Esmalte Longa Duração', 'Esmalte Risque ....', 7, '10.00', '7.00', 16, 'prod-09.jpeg', 10),
+(10, 'Creme Pele', 'Creme ...', 2, '0.00', '35.00', 8, 'prod-10.jpeg', 10);
 
 -- --------------------------------------------------------
 
