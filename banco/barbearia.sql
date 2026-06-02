@@ -770,11 +770,13 @@ CREATE TABLE `textos_index` (
 --
 
 INSERT INTO `textos_index` (`id`, `titulo`, `descricao`) VALUES
-(1, 'Cortes Profissionais', 'Descrição relacionado ao texto, você poderá alterar essa descrição e o título do texto acima no painel administrativo, lá terá uma opção para gerenciar os recursos do site.'),
-(2, 'Faça sua Barba', 'Descrição relacionado ao texto, você poderá alterar essa descrição e o título do texto acima no painel administrativo, lá terá uma opção para gerenciar os recursos do site.'),
-(3, 'Mega Hair', 'Descrição relacionado ao texto, você poderá alterar essa descrição e o título do texto acima no painel administrativo, lá terá uma opção para gerenciar os recursos do site.'),
-(4, 'Unha de Gel', 'Descrição relacionado ao texto, você poderá alterar essa descrição e o título do texto acima no painel administrativo, lá terá uma opção para gerenciar os recursos do site.');
+(1, 'Trança Nagô', 'Trança feita rente ao couro cabeludo, com desenhos e estilos personalizados. Ideal para quem busca praticidade, durabilidade e um visual moderno que valoriza a beleza natural dos cabelos.'),
 
+(2, 'Butterfly Braids', 'Tranças com efeito volumoso e textura despojada, criando um visual leve, elegante e cheio de personalidade. Perfeitas para quem deseja um penteado moderno e sofisticado.'),
+
+(3, 'Box Braids', 'Tranças individuais que oferecem proteção aos fios, versatilidade e longa duração. Disponíveis em diversos tamanhos, comprimentos e espessuras para combinar com seu estilo.'),
+
+(4, 'Gipsy Braids', 'Tranças com mechas soltas que proporcionam movimento e um visual boho sofisticado. Uma excelente opção para quem busca beleza, leveza e um acabamento natural.')
 -- --------------------------------------------------------
 
 --

@@ -170,7 +170,7 @@ for($i=0; $i < $total_reg; $i++){
       <div class="row">
         <div class="col-md-6 px-0">
           <div class="img-box ">
-            <img src="images/img-sobre.jpeg" class="box_img" alt="about img" style="width: 80vh; height: 50vh; object-fit: cover;">
+            <img src="images/img-sobre.jpeg" class="box_img" alt="about img" style="width: 100%; max-width: 500px; max-height: 530px; height: auto; object-fit: cover;">
           </div>
         </div>
         <div class="col-md-5">
