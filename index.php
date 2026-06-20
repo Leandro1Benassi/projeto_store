@@ -223,7 +223,7 @@ for($i=0; $i < $total_reg; $i++){
   $foto = $res[$i]['foto'];
   $descricao = $res[$i]['descricao'];
    $valorF = number_format($valor, 2, ',', '.');
- $nomeF = mb_strimwidth($nome, 0, 23, "...");
+   $nomeF = mb_strimwidth($nome, 0, 23, "...");
 
  ?>
 
