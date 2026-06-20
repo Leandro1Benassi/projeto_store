@@ -227,7 +227,7 @@ for($i=0; $i < $total_reg; $i++){
 
  ?>
 
-        <div class="col-sm-6 col-md-3">
+     <div class="col-6 col-sm-6 col-md-3">
           <div class="box">
             <div class="img-box">
               <img src="images/<?php echo $foto ?>" title="<?php echo $descricao ?>">
@@ -441,7 +441,7 @@ if($total_reg > 0){
              <input type="hidden" name="cliente" value="1">
 
           <br>
-          <small><div id="mensagem-comentario" align="center"></div></small>
+          <small><div id="mensagem-comentario" ></div></small>
         </div>
 
         <div class="modal-footer">      
